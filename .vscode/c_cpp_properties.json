@@ -1,0 +1,13 @@
+"configurations": [
+  {
+    "name": "Win32",
+    "includePath": [
+      "${workspaceFolder}/**",
+      "C:/Program Files (x86)/Microsoft SDKs/Include/**",
+      "C:/path_to_your_libraries"
+    ],
+    "defines": [],
+    "compilerPath": "C:/path_to_your_compiler",
+    "intelliSenseMode": "msvc-x64"
+  }
+]
